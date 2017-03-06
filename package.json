@@ -1,7 +1,7 @@
 {
-  "name": "hitheworld",
-  "version": "0.1.0",
-  "description": "npm测试包",
+  "name": "files-read-write",
+  "version": "0.0.1",
+  "description": "File to read and write",
   "main": "index.js",
   "scripts": {
     "watch": "mocha --watch tests/",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hitheworld/hitheworld.git"
+    "url": "git+https://github.com/Hitheworld/files-read-write.git"
   },
   "author": "ping",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hitheworld/hitheworld/issues"
+    "url": "https://github.com/Hitheworld/files-read-write/issues"
   },
-  "homepage": "https://github.com/Hitheworld/hitheworld#readme",
+  "homepage": "https://github.com/Hitheworld/files-read-write#readme",
   "dependencies": {
     "es6-promise": "^4.0.5"
   },
